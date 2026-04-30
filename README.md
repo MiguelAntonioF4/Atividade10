@@ -66,6 +66,17 @@ flutter run
 
 ---
 
+## Telas
+
+<img width="404" height="858" alt="image" src="https://github.com/user-attachments/assets/8144992c-e26c-48ac-9c70-5835dca7887f" />
+
+<img width="410" height="859" alt="image" src="https://github.com/user-attachments/assets/edb98aa6-38f4-4fe0-b05f-2938fe44499c" />
+
+<img width="394" height="859" alt="image" src="https://github.com/user-attachments/assets/53670123-c2d9-4460-a28e-f3e701359071" />
+
+
+---
+
 ## 👥 Autores
 
 - Miguel Antônio

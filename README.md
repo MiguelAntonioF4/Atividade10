@@ -81,3 +81,5 @@ flutter run
 
 - Miguel Antônio
 - Natanael Beloqui
+
+Obs: feito com IA
